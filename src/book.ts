@@ -1,4 +1,4 @@
-enum Genre {
+export enum Genre {
     Suspense,
     Emotion,
     Fear,
